@@ -1,6 +1,6 @@
 ### Hello, My names Hedi
 
-- 🚀 I Working in the heavy parts of the programming
+- 🚀 I am Working in the heavy parts of the programming
 
 ---
 
