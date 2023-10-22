@@ -1,8 +1,5 @@
 ### Hello, My names Hedi
-  
-- Im FullStack Developer 
-- 💽 Developer Operating System
-- ⚡️ And Working in Arduino & Electric
+
 - 🚀 I Working in the heavy parts of the programming
 
 ---
